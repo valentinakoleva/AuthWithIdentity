@@ -1,0 +1,105 @@
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.deps.json
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.runtimeconfig.json
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.runtimeconfig.dev.json
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.dll
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.pdb
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.Views.dll
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.Views.pdb
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.csprojAssemblyReference.cache
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.csproj.CoreCompileInputs.cache
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.RazorAssemblyInfo.cache
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.RazorAssemblyInfo.cs
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.AssemblyInfoInputs.cache
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.AssemblyInfo.cs
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.TagHelpers.input.cache
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.TagHelpers.output.cache
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.RazorCoreGenerate.cache
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.RazorTargetAssemblyInfo.cache
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.RazorTargetAssemblyInfo.cs
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.Views.pdb
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.dll
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.pdb
+D:\Georgi\Събитийно програмиране\week 7\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.csproj.CopyComplete
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.csproj.CoreCompileInputs.cache
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.AssemblyInfoInputs.cache
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.AssemblyInfo.cs
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.dll
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.pdb
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.deps.json
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.runtimeconfig.json
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.runtimeconfig.dev.json
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.dll
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.pdb
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.Views.dll
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.Views.pdb
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.csprojResolveAssemblyReference.cache
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.RazorAssemblyInfo.cache
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.RazorAssemblyInfo.cs
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.TagHelpers.input.cache
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.TagHelpers.output.cache
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.RazorCoreGenerate.cache
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.RazorTargetAssemblyInfo.cache
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.RazorTargetAssemblyInfo.cs
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.Views.pdb
+D:\university\Geri c#\AuthWithIdentity-master\AuthenticateIdentity\AuthWithIdentity\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.csproj.CopyComplete
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.deps.json
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.runtimeconfig.json
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.dll
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.pdb
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.Views.dll
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\bin\Debug\netcoreapp2.1\AuthWithIdentity.Views.pdb
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.AssemblyInfo.cs
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.TagHelpers.input.cache
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.TagHelpers.output.cache
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.Views.pdb
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.dll
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.pdb
+C:\Users\Admin\Desktop\AuthWithIdentity-master\AuthWithIdentity\obj\Debug\netcoreapp2.1\AuthWithIdentity.csproj.CopyComplete
